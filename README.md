@@ -1,0 +1,14 @@
+# ANGULAR 7 (2020) AND TYPE SCRIPT - Gym System
+- TypeScript
+- Angular
+  - COMPONENTS
+  - EVENTS
+  - DIRECTIVES
+  - Pipes
+  - Routing
+  - Reactive Forms
+  - SERVCES
+  - LocalStorage
+  - Core
+  - LYFE CYCLE
+- FINAL PROJECT: Gym System
